@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>공모전 트래커 · IT/개발</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #1a1d27;
+    --card-hover: #222633;
+    --text: #e8eaf0;
+    --muted: #8a90a3;
+    --line: #2a2e3c;
+    --accent: #5b8cff;
+    --urgent: #ff5b6e;
+    --soon: #ffb14e;
+    --safe: #3ecf8e;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo",
+                 "Malgun Gothic", sans-serif;
+    background: var(--bg); color: var(--text);
+    line-height: 1.5; padding: 24px 16px 64px;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; }
+  header { margin-bottom: 20px; }
+  h1 { font-size: 24px; font-weight: 800; letter-spacing: -0.02em; }
+  .sub { color: var(--muted); font-size: 13px; margin-top: 6px; }
+  .controls {
+    display: flex; gap: 8px; flex-wrap: wrap;
+    margin: 18px 0; position: sticky; top: 0;
+    background: var(--bg); padding: 8px 0; z-index: 5;
+  }
+  #search {
+    flex: 1 1 200px; min-width: 0;
+    background: var(--card); border: 1px solid var(--line);
+    color: var(--text); border-radius: 10px; padding: 11px 14px; font-size: 14px;
+  }
+  #search:focus { outline: none; border-color: var(--accent); }
+  select {
+    background: var(--card); border: 1px solid var(--line);
+    color: var(--text); border-radius: 10px; padding: 11px 12px; font-size: 14px;
+  }
+  .list { display: flex; flex-direction: column; gap: 10px; }
+  .card {
+    display: block; text-decoration: none; color: inherit;
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 14px; padding: 16px 18px; transition: .15s;
+  }
+  .card:hover { background: var(--card-hover); border-color: #3a4156; transform: translateY(-1px); }
+  .card-top { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .dday {
+    font-weight: 800; font-size: 13px; padding: 3px 9px;
+    border-radius: 999px; white-space: nowrap; flex-shrink: 0;
+  }
+  .dday.urgent { background: rgba(255,91,110,.15); color: var(--urgent); }
+  .dday.soon   { background: rgba(255,177,78,.15); color: var(--soon); }
+  .dday.safe   { background: rgba(62,207,142,.13); color: var(--safe); }
+  .cat { font-size: 12px; color: var(--muted); }
+  .title { font-size: 15.5px; font-weight: 600; letter-spacing: -0.01em; }
+  .empty, .loading { text-align: center; color: var(--muted); padding: 48px 0; }
+  footer { margin-top: 28px; text-align: center; color: var(--muted); font-size: 12px; }
+  a.src { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🏆 공모전 트래커</h1>
+    <div class="sub" id="meta">불러오는 중…</div>
+  </header>
+
+  <div class="controls">
+    <input id="search" type="text" placeholder="공모전 검색 (제목)" autocomplete="off">
+    <select id="cat">
+      <option value="">전체 분야</option>
+      <option value="웹/모바일/IT">웹/모바일/IT</option>
+      <option value="게임/소프트웨어">게임/소프트웨어</option>
+    </select>
+  </div>
+
+  <div class="list" id="list"><div class="loading">데이터를 불러오는 중…</div></div>
+
+  <footer>
+    출처: <a class="src" href="https://www.wevity.com" target="_blank" rel="noopener">위비티(wevity)</a>
+    · GitHub Actions로 6시간마다 자동 갱신
+  </footer>
+</div>
+
+<script>
+let CONTESTS = [];
+
+function ddayClass(d) {
+  if (d <= 3) return "urgent";
+  if (d <= 14) return "soon";
+  return "safe";
+}
+
+function render() {
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const cat = document.getElementById("cat").value;
+  const list = document.getElementById("list");
+
+  const filtered = CONTESTS.filter(c => {
+    const okQ = !q || c.title.toLowerCase().includes(q);
+    const okCat = !cat || (c.category || "").includes(cat);
+    return okQ && okCat;
+  });
+
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="empty">조건에 맞는 공모전이 없어요.</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(c => `
+    <a class="card" href="${c.link}" target="_blank" rel="noopener">
+      <div class="card-top">
+        <span class="dday ${ddayClass(c.days_left)}">${c.dday}</span>
+        <span class="cat">${c.category || ""}</span>
+      </div>
+      <div class="title">${escapeHtml(c.title)}</div>
+    </a>
+  `).join("");
+}
+
+function escapeHtml(s) {
+  return s.replace(/[&<>"]/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+}
+
+async function load() {
+  try {
+    const res = await fetch("./data.json?t=" + Date.now());
+    const data = await res.json();
+    CONTESTS = data.contests || [];
+    document.getElementById("meta").textContent =
+      `현재 모집중 ${data.count}건 · 마지막 갱신 ${data.updated}`;
+    render();
+  } catch (e) {
+    document.getElementById("list").innerHTML =
+      '<div class="empty">데이터를 불러오지 못했어요. 잠시 후 다시 시도해주세요.</div>';
+  }
+}
+
+document.getElementById("search").addEventListener("input", render);
+document.getElementById("cat").addEventListener("change", render);
+load();
+</script>
+</body>
+</html>
