@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06 04:51 KST",
+  "updated": "2026-06-06 11:54 KST",
   "count": 34,
   "contests": [
     {
@@ -120,15 +120,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
-      "dday": "D-25",
-      "days_left": 25,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
       "ix": "107977",
       "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
@@ -136,6 +127,15 @@
       "days_left": 25,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "dday": "D-25",
+      "days_left": 25,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "106229",
@@ -237,18 +237,18 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
       "dday": "D-55",
       "days_left": 55,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-55",
       "days_left": 55,
       "is_open": true,
