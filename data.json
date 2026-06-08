@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08 19:49 KST",
-  "count": 34,
+  "updated": "2026-06-09 00:46 KST",
+  "count": 35,
   "contests": [
     {
       "ix": "107818",
@@ -143,6 +143,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=105859",
       "dday": "D-22",
       "days_left": 22,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108007",
+      "title": "2026년 서대문청소년센터 AI · 미디어콘텐츠공모전 Signal_A 참가자 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108007",
+      "dday": "D-24",
+      "days_left": 24,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
@@ -293,7 +302,7 @@
     {
       "ix": "107813",
       "title": "2026년 창원시 AIㆍ데이터 활용 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107813",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
       "dday": "D-114",
       "days_left": 114,
       "is_open": true,
