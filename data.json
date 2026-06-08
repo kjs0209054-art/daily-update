@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09 00:46 KST",
+  "updated": "2026-06-09 05:12 KST",
   "count": 35,
   "contests": [
     {
@@ -111,15 +111,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
-      "dday": "D-22",
-      "days_left": 22,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
       "ix": "107977",
       "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
@@ -127,6 +118,15 @@
       "days_left": 22,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "dday": "D-22",
+      "days_left": 22,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "106229",
@@ -283,7 +283,7 @@
     },
     {
       "ix": "108046",
-      "title": "제 1회 일상뒤집기 ai 어플 개발 공모전신규",
+      "title": "제 1회 일상뒤집기 ai 어플 개발 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108046",
       "dday": "D-75",
       "days_left": 75,
