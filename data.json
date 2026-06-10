@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10 12:31 KST",
-  "count": 36,
+  "updated": "2026-06-10 18:56 KST",
+  "count": 24,
   "contests": [
     {
       "ix": "107818",
@@ -10,33 +10,6 @@
       "days_left": 1,
       "is_open": true,
       "category": "게임/소프트웨어"
-    },
-    {
-      "ix": "106718",
-      "title": "2026 경상남도 빅데이터 활용 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106718",
-      "dday": "D-5",
-      "days_left": 5,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107795",
-      "title": "2026년 KOICA 공공데이터 활용 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107795",
-      "dday": "D-6",
-      "days_left": 6,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107800",
-      "title": "과학기술정보통신부 인공지능주간 공식 AI 어워드 국가 AI 대상 참가 단체 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107800",
-      "dday": "D-8",
-      "days_left": 8,
-      "is_open": true,
-      "category": "웹/모바일/IT"
     },
     {
       "ix": "107195",
@@ -57,15 +30,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107839",
-      "title": "DIVE 2026 해커톤 참가팀 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107839",
-      "dday": "D-14",
-      "days_left": 14,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "107424",
       "title": "2026 부산광역시 공공데이터•AI 활용 창업경진대회",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107424",
@@ -82,15 +46,6 @@
       "days_left": 16,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
-      "ix": "106202",
-      "title": "산림과학 AI 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106202",
-      "dday": "D-16",
-      "days_left": 16,
-      "is_open": true,
-      "category": "웹/모바일/IT"
     },
     {
       "ix": "107244",
@@ -111,15 +66,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
-      "dday": "D-20",
-      "days_left": 20,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
       "ix": "107977",
       "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
@@ -129,22 +75,13 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "106229",
-      "title": "2026 아두이노 메이커 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106229",
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
       "dday": "D-20",
       "days_left": 20,
       "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "105859",
-      "title": "2026 전국민 인공지능(AI) 창작 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=105859",
-      "dday": "D-20",
-      "days_left": 20,
-      "is_open": true,
-      "category": "웹/모바일/IT"
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "108007",
@@ -156,11 +93,11 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107489",
-      "title": "2026년 병무청·방위사업청·질병관리청 합동 공공데이터·AI 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107489",
-      "dday": "D-27",
-      "days_left": 27,
+      "ix": "108156",
+      "title": "2026년 춘천시 데이터 활용 해커톤 대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108156",
+      "dday": "D-23",
+      "days_left": 23,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
@@ -192,27 +129,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107837",
-      "title": "[요기요 X 오라클 해커톤]  맛있는 일상 AI로 잇(IT)다 해커톤",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107837",
-      "dday": "D-32",
-      "days_left": 32,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "108125",
-      "title": "2026년 제 2회 강원권 중고교 AI 사이버 보안 챌린지신규",
+      "title": "2026년 제 2회 강원권 중고교 AI 사이버 보안 챌린지",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108125",
-      "dday": "D-33",
-      "days_left": 33,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107410",
-      "title": "2026년 외교 공공데이터‧AI 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107410",
       "dday": "D-33",
       "days_left": 33,
       "is_open": true,
@@ -226,24 +145,6 @@
       "days_left": 34,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
-      "ix": "106115",
-      "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106115",
-      "dday": "D-34",
-      "days_left": 34,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107369",
-      "title": "2026 KAIST AI x 실패 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107369",
-      "dday": "D-37",
-      "days_left": 37,
-      "is_open": true,
-      "category": "웹/모바일/IT"
     },
     {
       "ix": "107947",
@@ -307,15 +208,6 @@
       "days_left": 85,
       "is_open": true,
       "category": "게임/소프트웨어"
-    },
-    {
-      "ix": "107813",
-      "title": "2026년 창원시 AIㆍ데이터 활용 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
-      "dday": "D-112",
-      "days_left": 112,
-      "is_open": true,
-      "category": "웹/모바일/IT"
     },
     {
       "ix": "107956",
