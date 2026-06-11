@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11 12:43 KST",
-  "count": 37,
+  "updated": "2026-06-11 19:20 KST",
+  "count": 39,
   "contests": [
     {
       "ix": "107818",
@@ -104,20 +104,11 @@
     {
       "ix": "106875",
       "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=106875",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=106875",
       "dday": "D-15",
       "days_left": 15,
       "is_open": true,
       "category": "게임/소프트웨어"
-    },
-    {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
-      "dday": "D-19",
-      "days_left": 19,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "107977",
@@ -127,6 +118,15 @@
       "days_left": 19,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "dday": "D-19",
+      "days_left": 19,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "106229",
@@ -163,6 +163,24 @@
       "days_left": 22,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108224",
+      "title": "2026 동남권 정보보호 사이버공방전 (SECTOR) 참가자 모집신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108224",
+      "dday": "D-22",
+      "days_left": 22,
+      "is_open": true,
+      "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "108225",
+      "title": "[SCPC2026] 제12회 삼성전자 대학생 프로그래밍 챌린지신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108225",
+      "dday": "D-24",
+      "days_left": 24,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "107489",
@@ -264,18 +282,18 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-49",
       "days_left": 49,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
       "dday": "D-49",
       "days_left": 49,
       "is_open": true,
@@ -311,7 +329,7 @@
     {
       "ix": "107135",
       "title": "제24회 임베디드SW경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=107135",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=107135",
       "dday": "D-84",
       "days_left": 84,
       "is_open": true,
