@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 12:31 KST",
+  "updated": "2026-06-13 17:55 KST",
   "count": 42,
   "contests": [
     {
@@ -157,7 +157,7 @@
     },
     {
       "ix": "108263",
-      "title": "2026 강원 콘텐츠 페스타 - 강원 중·고교 e-스포츠 대항전신규",
+      "title": "2026 강원 콘텐츠 페스타 - 강원 중·고교 e-스포츠 대항전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108263",
       "dday": "D-17",
       "days_left": 17,
@@ -300,18 +300,18 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-47",
       "days_left": 47,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
       "dday": "D-47",
       "days_left": 47,
       "is_open": true,
