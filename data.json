@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14 22:58 KST",
-  "count": 42,
+  "updated": "2026-06-15 04:23 KST",
+  "count": 46,
   "contests": [
     {
       "ix": "106718",
@@ -86,7 +86,7 @@
     {
       "ix": "106202",
       "title": "산림과학 AI 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106202",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=106202",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
@@ -95,7 +95,7 @@
     {
       "ix": "107244",
       "title": "2026년 AI·가상융합(XR) 서비스 개발자 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=107244",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=107244",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
@@ -111,9 +111,9 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "ix": "108287",
+      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
       "dday": "D-16",
       "days_left": 16,
       "is_open": true,
@@ -129,6 +129,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "dday": "D-16",
+      "days_left": 16,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
       "ix": "108247",
       "title": "제주 바이오 AX 해커톤: AI로 설계하는 제주 바이오의 미래 참가팀 모집",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108247",
@@ -140,7 +149,7 @@
     {
       "ix": "106229",
       "title": "2026 아두이노 메이커 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106229",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=106229",
       "dday": "D-16",
       "days_left": 16,
       "is_open": true,
@@ -149,7 +158,7 @@
     {
       "ix": "105859",
       "title": "2026 전국민 인공지능(AI) 창작 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=105859",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=105859",
       "dday": "D-16",
       "days_left": 16,
       "is_open": true,
@@ -167,16 +176,25 @@
     {
       "ix": "108007",
       "title": "2026년 서대문청소년센터 AI · 미디어콘텐츠공모전 Signal_A 참가자 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108007",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108007",
       "dday": "D-18",
       "days_left": 18,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "108286",
+      "title": "2026년 현대자동차그룹 K-뉴딜 아카데미 HINT 교육생 모집신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108286",
+      "dday": "D-19",
+      "days_left": 19,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
       "ix": "108156",
       "title": "2026년 춘천시 데이터 활용 해커톤 대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108156",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108156",
       "dday": "D-19",
       "days_left": 19,
       "is_open": true,
@@ -212,7 +230,7 @@
     {
       "ix": "107632",
       "title": "2026 전국 청소년 AI에이전트 코딩 경진대회 (참가비 있음)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=107632",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=107632",
       "dday": "D-26",
       "days_left": 26,
       "is_open": true,
@@ -248,7 +266,7 @@
     {
       "ix": "108125",
       "title": "2026년 제 2회 강원권 중고교 AI 사이버 보안 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108125",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108125",
       "dday": "D-29",
       "days_left": 29,
       "is_open": true,
@@ -275,7 +293,7 @@
     {
       "ix": "106115",
       "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106115",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=106115",
       "dday": "D-30",
       "days_left": 30,
       "is_open": true,
@@ -309,6 +327,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "108289",
+      "title": "2026 성평등 영상 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
+      "dday": "D-46",
+      "days_left": 46,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "107425",
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
@@ -327,9 +354,18 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "108288",
+      "title": "2026년 임업통계 활용 경진대회",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108288",
+      "dday": "D-47",
+      "days_left": 47,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
       "ix": "107874",
       "title": "제1회 자유기업원 AI콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107874",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107874",
       "dday": "D-47",
       "days_left": 47,
       "is_open": true,
@@ -374,7 +410,7 @@
     {
       "ix": "107956",
       "title": "[넥슨] 메이플스토리 글로벌 개발 콘테스트 (MapleStory Global Creator Challenge)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=107956",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=107956",
       "dday": "D-115",
       "days_left": 115,
       "is_open": true,
