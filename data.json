@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17 01:47 KST",
+  "updated": "2026-06-17 05:48 KST",
   "count": 45,
   "contests": [
     {
@@ -93,15 +93,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "108287",
-      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
-      "dday": "D-14",
-      "days_left": 14,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
       "ix": "107977",
       "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
@@ -114,6 +105,15 @@
       "ix": "107650",
       "title": "서울 디자인 AI 영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "dday": "D-14",
+      "days_left": 14,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "108287",
+      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
       "dday": "D-14",
       "days_left": 14,
       "is_open": true,
@@ -300,15 +300,6 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
-      "dday": "D-44",
-      "days_left": 44,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "107425",
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
@@ -321,6 +312,15 @@
       "ix": "108289",
       "title": "2026 성평등 영상 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
+      "dday": "D-44",
+      "days_left": 44,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-44",
       "days_left": 44,
       "is_open": true,
