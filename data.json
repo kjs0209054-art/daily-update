@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16 12:53 KST",
+  "updated": "2026-06-16 20:07 KST",
   "count": 46,
   "contests": [
     {
@@ -102,18 +102,18 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "ix": "108287",
+      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
       "dday": "D-14",
       "days_left": 14,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "108287",
-      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
       "dday": "D-14",
       "days_left": 14,
       "is_open": true,
@@ -309,9 +309,9 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "ix": "108289",
+      "title": "2026 성평등 영상 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
       "dday": "D-44",
       "days_left": 44,
       "is_open": true,
@@ -327,9 +327,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108289",
-      "title": "2026 성평등 영상 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-44",
       "days_left": 44,
       "is_open": true,
@@ -364,7 +364,7 @@
     },
     {
       "ix": "108323",
-      "title": "2026년 물류데이터·AI 활용 및 분석 아이디어 공모전신규",
+      "title": "2026년 물류데이터·AI 활용 및 분석 아이디어 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108323",
       "dday": "D-49",
       "days_left": 49,
