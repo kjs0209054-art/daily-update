@@ -1,16 +1,7 @@
 {
-  "updated": "2026-06-16 20:07 KST",
-  "count": 46,
+  "updated": "2026-06-17 01:47 KST",
+  "count": 45,
   "contests": [
-    {
-      "ix": "107795",
-      "title": "2026년 KOICA 공공데이터 활용 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107795",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "107800",
       "title": "과학기술정보통신부 인공지능주간 공식 AI 어워드 국가 AI 대상 참가 단체 모집",
@@ -111,15 +102,6 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
-      "dday": "D-14",
-      "days_left": 14,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
       "ix": "107977",
       "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
@@ -127,6 +109,15 @@
       "days_left": 14,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "dday": "D-14",
+      "days_left": 14,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "108247",
@@ -140,7 +131,7 @@
     {
       "ix": "106229",
       "title": "2026 아두이노 메이커 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=106229",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106229",
       "dday": "D-14",
       "days_left": 14,
       "is_open": true,
@@ -309,9 +300,9 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "108289",
-      "title": "2026 성평등 영상 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-44",
       "days_left": 44,
       "is_open": true,
@@ -327,9 +318,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "ix": "108289",
+      "title": "2026 성평등 영상 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
       "dday": "D-44",
       "days_left": 44,
       "is_open": true,
