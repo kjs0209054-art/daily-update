@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17 19:51 KST",
-  "count": 45,
+  "updated": "2026-06-18 00:22 KST",
+  "count": 47,
   "contests": [
     {
       "ix": "107800",
@@ -93,9 +93,9 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "ix": "108287",
+      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
       "dday": "D-13",
       "days_left": 13,
       "is_open": true,
@@ -111,9 +111,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108287",
-      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
       "dday": "D-13",
       "days_left": 13,
       "is_open": true,
@@ -122,7 +122,7 @@
     {
       "ix": "108247",
       "title": "제주 바이오 AX 해커톤: AI로 설계하는 제주 바이오의 미래 참가팀 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108247",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108247",
       "dday": "D-13",
       "days_left": 13,
       "is_open": true,
@@ -131,7 +131,7 @@
     {
       "ix": "106229",
       "title": "2026 아두이노 메이커 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=106229",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=106229",
       "dday": "D-13",
       "days_left": 13,
       "is_open": true,
@@ -152,6 +152,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108263",
       "dday": "D-13",
       "days_left": 13,
+      "is_open": true,
+      "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "108415",
+      "title": "2026 큐챔스 CUBE CHAMPIONS LEAGUE신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108415",
+      "dday": "D-14",
+      "days_left": 14,
       "is_open": true,
       "category": "게임/소프트웨어"
     },
@@ -300,6 +309,15 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "dday": "D-43",
+      "days_left": 43,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "107425",
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
@@ -309,9 +327,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
       "dday": "D-43",
       "days_left": 43,
       "is_open": true,
@@ -365,7 +383,7 @@
     {
       "ix": "108046",
       "title": "제 1회 일상뒤집기 ai 어플 개발 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108046",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=108046",
       "dday": "D-66",
       "days_left": 66,
       "is_open": true,
