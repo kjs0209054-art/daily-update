@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18 12:42 KST",
-  "count": 47,
+  "updated": "2026-06-18 19:18 KST",
+  "count": 48,
   "contests": [
     {
       "ix": "107800",
@@ -93,13 +93,13 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107977",
-      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
-      "category": "웹/모바일/IT"
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "108287",
@@ -111,13 +111,13 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "ix": "107977",
+      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "108247",
@@ -157,7 +157,7 @@
     },
     {
       "ix": "108415",
-      "title": "2026 큐챔스 CUBE CHAMPIONS LEAGUE신규",
+      "title": "2026 큐챔스 CUBE CHAMPIONS LEAGUE",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108415",
       "dday": "D-13",
       "days_left": 13,
@@ -291,9 +291,18 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "108424",
+      "title": "제5회 경운대학교 지능형 모빌리티 SW경진대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108424",
+      "dday": "D-29",
+      "days_left": 29,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "107369",
       "title": "2026 KAIST AI x 실패 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107369",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107369",
       "dday": "D-29",
       "days_left": 29,
       "is_open": true,
@@ -318,6 +327,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "108289",
+      "title": "2026 성평등 영상 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
+      "dday": "D-42",
+      "days_left": 42,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "107425",
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
@@ -330,15 +348,6 @@
       "ix": "108417",
       "title": "2026 CHAI 대학생 AI 광고 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
-      "dday": "D-42",
-      "days_left": 42,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108289",
-      "title": "2026 성평등 영상 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
       "dday": "D-42",
       "days_left": 42,
       "is_open": true,
@@ -374,7 +383,7 @@
     {
       "ix": "108323",
       "title": "2026년 물류데이터·AI 활용 및 분석 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108323",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108323",
       "dday": "D-47",
       "days_left": 47,
       "is_open": true,
