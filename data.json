@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21 18:46 KST",
-  "count": 46,
+  "updated": "2026-06-21 23:05 KST",
+  "count": 47,
   "contests": [
     {
       "ix": "108067",
@@ -75,15 +75,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107650",
-      "title": "서울 디자인 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
-      "dday": "D-9",
-      "days_left": 9,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
       "ix": "108287",
       "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
@@ -100,6 +91,15 @@
       "days_left": 9,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107650",
+      "title": "서울 디자인 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
+      "dday": "D-9",
+      "days_left": 9,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "108247",
@@ -275,7 +275,7 @@
     {
       "ix": "108424",
       "title": "제5회 경운대학교 지능형 모빌리티 SW경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108424",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108424",
       "dday": "D-26",
       "days_left": 26,
       "is_open": true,
@@ -284,7 +284,7 @@
     {
       "ix": "107369",
       "title": "2026 KAIST AI x 실패 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107369",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107369",
       "dday": "D-26",
       "days_left": 26,
       "is_open": true,
@@ -309,6 +309,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "dday": "D-39",
+      "days_left": 39,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "107426",
       "title": "2026 한국수력원자력 기업이미지 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
@@ -321,15 +330,6 @@
       "ix": "107425",
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
-      "dday": "D-39",
-      "days_left": 39,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
       "dday": "D-39",
       "days_left": 39,
       "is_open": true,
@@ -368,6 +368,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108323",
       "dday": "D-44",
       "days_left": 44,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108509",
+      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
+      "dday": "D-54",
+      "days_left": 54,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
