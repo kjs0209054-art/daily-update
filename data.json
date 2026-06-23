@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-23 18:35 KST",
-  "count": 51,
+  "updated": "2026-06-23 23:43 KST",
+  "count": 54,
   "contests": [
     {
       "ix": "107839",
       "title": "DIVE 2026 해커톤 참가팀 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107839",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107839",
       "dday": "D-1",
       "days_left": 1,
       "is_open": true,
@@ -23,7 +23,7 @@
     {
       "ix": "108154",
       "title": "2026 글로벌 인디 게임제작 경진대회(GIGDC2026)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108154",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=108154",
       "dday": "D-2",
       "days_left": 2,
       "is_open": true,
@@ -66,15 +66,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107977",
-      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
-      "dday": "D-7",
-      "days_left": 7,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "107650",
       "title": "서울 디자인 AI 영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
@@ -91,6 +82,15 @@
       "days_left": 7,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "107977",
+      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
+      "dday": "D-7",
+      "days_left": 7,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "108247",
@@ -167,7 +167,7 @@
     {
       "ix": "108224",
       "title": "2026 동남권 정보보호 사이버공방전 (SECTOR) 참가자 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108224",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=108224",
       "dday": "D-10",
       "days_left": 10,
       "is_open": true,
@@ -309,27 +309,27 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "108589",
+      "title": "2026 글로벌 청소년 경진대회 - AI 활용 게임 제작 대회 (초등부)신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108589",
+      "dday": "D-27",
+      "days_left": 27,
+      "is_open": true,
+      "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "108588",
+      "title": "2026 글로벌 청소년 경진대회 - AI활용 게임 제작 대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108588",
+      "dday": "D-27",
+      "days_left": 27,
+      "is_open": true,
+      "category": "게임/소프트웨어"
+    },
+    {
       "ix": "108289",
       "title": "2026 성평등 영상 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
-      "dday": "D-37",
-      "days_left": 37,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
-      "dday": "D-37",
-      "days_left": 37,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
       "dday": "D-37",
       "days_left": 37,
       "is_open": true,
@@ -345,13 +345,22 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107427",
-      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107427",
-      "dday": "D-38",
-      "days_left": 38,
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "dday": "D-37",
+      "days_left": 37,
       "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "dday": "D-37",
+      "days_left": 37,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "108288",
@@ -361,6 +370,24 @@
       "days_left": 38,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "107427",
+      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107427",
+      "dday": "D-38",
+      "days_left": 38,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "108519",
+      "title": "제3회 KRC AI 디지털 혁신 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108519",
+      "dday": "D-38",
+      "days_left": 38,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "107874",
