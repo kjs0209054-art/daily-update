@@ -1,16 +1,7 @@
 {
-  "updated": "2026-06-24 23:29 KST",
-  "count": 52,
+  "updated": "2026-06-25 04:43 KST",
+  "count": 51,
   "contests": [
-    {
-      "ix": "107839",
-      "title": "DIVE 2026 해커톤 참가팀 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107839",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "107424",
       "title": "2026 부산광역시 공공데이터•AI 활용 창업경진대회",
@@ -66,15 +57,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "107977",
-      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
-      "dday": "D-6",
-      "days_left": 6,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "108287",
       "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
@@ -82,6 +64,15 @@
       "days_left": 6,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "107977",
+      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
+      "dday": "D-6",
+      "days_left": 6,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "107650",
@@ -309,6 +300,15 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "dday": "D-36",
+      "days_left": 36,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "107426",
       "title": "2026 한국수력원자력 기업이미지 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
@@ -321,15 +321,6 @@
       "ix": "108289",
       "title": "2026 성평등 영상 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
-      "dday": "D-36",
-      "days_left": 36,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
       "dday": "D-36",
       "days_left": 36,
       "is_open": true,
