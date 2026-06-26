@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26 12:29 KST",
-  "count": 52,
+  "updated": "2026-06-26 18:21 KST",
+  "count": 51,
   "contests": [
     {
       "ix": "106965",
@@ -48,15 +48,6 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107977",
-      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
-      "dday": "D-4",
-      "days_left": 4,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "107650",
       "title": "서울 디자인 AI 영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107650",
@@ -64,6 +55,15 @@
       "days_left": 4,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "107977",
+      "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107977",
+      "dday": "D-4",
+      "days_left": 4,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "108247",
@@ -118,15 +118,6 @@
       "days_left": 6,
       "is_open": true,
       "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108286",
-      "title": "2026년 현대자동차그룹 K-뉴딜 아카데미 HINT 교육생 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108286",
-      "dday": "D-7",
-      "days_left": 7,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "108156",
@@ -185,7 +176,7 @@
     {
       "ix": "107632",
       "title": "2026 전국 청소년 AI에이전트 코딩 경진대회 (참가비 있음)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=2&ix=107632",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=107632",
       "dday": "D-14",
       "days_left": 14,
       "is_open": true,
@@ -194,7 +185,7 @@
     {
       "ix": "107850",
       "title": "2026년 대한민국 AI 콘텐츠 어워즈 - 경쟁 부문 출품 공고",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107850",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107850",
       "dday": "D-16",
       "days_left": 16,
       "is_open": true,
@@ -220,7 +211,7 @@
     },
     {
       "ix": "108651",
-      "title": "제17회 전국 창의적 문제해결능력 경진대회신규",
+      "title": "제17회 전국 창의적 문제해결능력 경진대회",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108651",
       "dday": "D-17",
       "days_left": 17,
@@ -291,18 +282,9 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
-      "dday": "D-34",
-      "days_left": 34,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-34",
       "days_left": 34,
       "is_open": true,
@@ -318,9 +300,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
       "dday": "D-34",
       "days_left": 34,
       "is_open": true,
@@ -336,18 +318,27 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107427",
-      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107427",
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "dday": "D-34",
+      "days_left": 34,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108288",
+      "title": "2026년 임업통계 활용 경진대회",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108288",
       "dday": "D-35",
       "days_left": 35,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "108288",
-      "title": "2026년 임업통계 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108288",
+      "ix": "107427",
+      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107427",
       "dday": "D-35",
       "days_left": 35,
       "is_open": true,
@@ -436,7 +427,7 @@
     },
     {
       "ix": "108653",
-      "title": "2026 Big Data 활용 대회 참가자 모집신규",
+      "title": "2026 Big Data 활용 대회 참가자 모집",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108653",
       "dday": "D-84",
       "days_left": 84,
