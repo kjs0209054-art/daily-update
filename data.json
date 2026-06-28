@@ -1,16 +1,7 @@
 {
-  "updated": "2026-06-28 17:48 KST",
+  "updated": "2026-06-28 22:42 KST",
   "count": 47,
   "contests": [
-    {
-      "ix": "108287",
-      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
-      "dday": "D-2",
-      "days_left": 2,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
     {
       "ix": "107977",
       "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전",
@@ -19,6 +10,15 @@
       "days_left": 2,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108287",
+      "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108287",
+      "dday": "D-2",
+      "days_left": 2,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "107650",
@@ -255,24 +255,6 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108289",
-      "title": "2026 성평등 영상 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
-      "dday": "D-32",
-      "days_left": 32,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
-      "dday": "D-32",
-      "days_left": 32,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "108662",
       "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108662",
@@ -282,9 +264,27 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "108289",
+      "title": "2026 성평등 영상 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
+      "dday": "D-32",
+      "days_left": 32,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "108417",
       "title": "2026 CHAI 대학생 AI 광고 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "dday": "D-32",
+      "days_left": 32,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
       "dday": "D-32",
       "days_left": 32,
       "is_open": true,
