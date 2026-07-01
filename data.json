@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01 12:36 KST",
-  "count": 46,
+  "updated": "2026-07-01 18:41 KST",
+  "count": 48,
   "contests": [
     {
       "ix": "108415",
@@ -40,7 +40,7 @@
     },
     {
       "ix": "108225",
-      "title": "[SCPC2026] 제12회 삼성전자 대학생 프로그래밍 챌린지",
+      "title": "[SCPC2026] 제12회 삼성전자 대학생 프로그래밍 챌린지 (내용 수정)",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108225",
       "dday": "D-4",
       "days_left": 4,
@@ -95,7 +95,7 @@
     {
       "ix": "107850",
       "title": "2026년 대한민국 AI 콘텐츠 어워즈 - 경쟁 부문 출품 공고",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107850",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107850",
       "dday": "D-11",
       "days_left": 11,
       "is_open": true,
@@ -104,7 +104,7 @@
     {
       "ix": "107842",
       "title": "2026년 대한민국 AI 콘텐츠 어워즈 - 백남준 특별상 부문",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107842",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107842",
       "dday": "D-11",
       "days_left": 11,
       "is_open": true,
@@ -167,7 +167,7 @@
     {
       "ix": "108754",
       "title": "SNU AI Challenge 2026",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108754",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108754",
       "dday": "D-16",
       "days_left": 16,
       "is_open": true,
@@ -219,15 +219,6 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
-      "dday": "D-29",
-      "days_left": 29,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "107425",
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
@@ -246,6 +237,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "dday": "D-29",
+      "days_left": 29,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "107426",
       "title": "2026 한국수력원자력 기업이미지 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
@@ -253,15 +253,6 @@
       "days_left": 29,
       "is_open": true,
       "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107427",
-      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107427",
-      "dday": "D-30",
-      "days_left": 30,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "108288",
@@ -273,9 +264,36 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "107427",
+      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107427",
+      "dday": "D-30",
+      "days_left": 30,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "108830",
+      "title": "제4회 NAVER OGQ마켓 AI Competition 대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108830",
+      "dday": "D-30",
+      "days_left": 30,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108794",
+      "title": "2026 호남 IS 코딩챌린지신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108794",
+      "dday": "D-30",
+      "days_left": 30,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "108752",
       "title": "제2회 한국수목원정원관리원 AI 활용 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108752",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108752",
       "dday": "D-30",
       "days_left": 30,
       "is_open": true,
@@ -364,7 +382,7 @@
     },
     {
       "ix": "108767",
-      "title": "제4회 스마트축산 AI 경진대회신규",
+      "title": "제4회 스마트축산 AI 경진대회",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108767",
       "dday": "D-61",
       "days_left": 61,
