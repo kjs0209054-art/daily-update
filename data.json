@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07 18:37 KST",
+  "updated": "2026-07-07 23:27 KST",
   "count": 46,
   "contests": [
     {
@@ -157,7 +157,7 @@
     },
     {
       "ix": "108981",
-      "title": "제19회 경상북도 아마추어 e스포츠 대회 참가 모집신규",
+      "title": "제19회 경상북도 아마추어 e스포츠 대회 참가 모집",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108981",
       "dday": "D-15",
       "days_left": 15,
@@ -172,6 +172,15 @@
       "days_left": 17,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "dday": "D-23",
+      "days_left": 23,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "108662",
@@ -192,9 +201,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-23",
       "days_left": 23,
       "is_open": true,
@@ -204,15 +213,6 @@
       "ix": "108289",
       "title": "2026 성평등 영상 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
-      "dday": "D-23",
-      "days_left": 23,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-23",
       "days_left": 23,
       "is_open": true,
