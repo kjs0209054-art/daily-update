@@ -1,47 +1,11 @@
 {
-  "updated": "2026-07-10 23:20 KST",
-  "count": 46,
+  "updated": "2026-07-11 04:23 KST",
+  "count": 42,
   "contests": [
-    {
-      "ix": "108702",
-      "title": "MOVE AI CHALLENGE 2026 - 물류 AI 아이디어 구현 해커톤",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108702",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108567",
-      "title": "2026년 제8회 K-디지털 트레이닝 해커톤",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108567",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108490",
-      "title": "2026년 시민·공무원 AI 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108490",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107632",
-      "title": "2026 전국 청소년 AI에이전트 코딩 경진대회 (참가비 있음)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=107632",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "107850",
       "title": "2026년 대한민국 AI 콘텐츠 어워즈 - 경쟁 부문 출품 공고",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107850",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107850",
       "dday": "D-2",
       "days_left": 2,
       "is_open": true,
@@ -50,7 +14,7 @@
     {
       "ix": "107842",
       "title": "2026년 대한민국 AI 콘텐츠 어워즈 - 백남준 특별상 부문",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107842",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107842",
       "dday": "D-2",
       "days_left": 2,
       "is_open": true,
@@ -59,7 +23,7 @@
     {
       "ix": "107837",
       "title": "[요기요 X 오라클 해커톤]  맛있는 일상 AI로 잇(IT)다 해커톤",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107837",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107837",
       "dday": "D-2",
       "days_left": 2,
       "is_open": true,
@@ -174,15 +138,6 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
-      "dday": "D-20",
-      "days_left": 20,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "108289",
       "title": "2026 성평등 영상 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
@@ -192,9 +147,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
       "dday": "D-20",
       "days_left": 20,
       "is_open": true,
@@ -210,9 +165,18 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
+      "dday": "D-20",
+      "days_left": 20,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
       "dday": "D-20",
       "days_left": 20,
       "is_open": true,
