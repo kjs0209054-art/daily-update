@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12 17:13 KST",
-  "count": 42,
+  "updated": "2026-07-12 22:14 KST",
+  "count": 44,
   "contests": [
     {
       "ix": "107850",
@@ -14,7 +14,7 @@
     {
       "ix": "107842",
       "title": "2026년 대한민국 AI 콘텐츠 어워즈 - 백남준 특별상 부문",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107842",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107842",
       "dday": "D-0",
       "days_left": 0,
       "is_open": true,
@@ -23,7 +23,7 @@
     {
       "ix": "107837",
       "title": "[요기요 X 오라클 해커톤]  맛있는 일상 AI로 잇(IT)다 해커톤",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107837",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107837",
       "dday": "D-0",
       "days_left": 0,
       "is_open": true,
@@ -138,9 +138,9 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "108289",
-      "title": "2026 성평등 영상 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
       "dday": "D-18",
       "days_left": 18,
       "is_open": true,
@@ -174,22 +174,13 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "ix": "108289",
+      "title": "2026 성평등 영상 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
       "dday": "D-18",
       "days_left": 18,
       "is_open": true,
       "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108288",
-      "title": "2026년 임업통계 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108288",
-      "dday": "D-19",
-      "days_left": 19,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "107427",
@@ -201,9 +192,18 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "108288",
+      "title": "2026년 임업통계 활용 경진대회",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108288",
+      "dday": "D-19",
+      "days_left": 19,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
       "ix": "108830",
       "title": "제4회 NAVER OGQ마켓 AI Competition 대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108830",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108830",
       "dday": "D-19",
       "days_left": 19,
       "is_open": true,
@@ -246,6 +246,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "109141",
+      "title": "[KB국민은행] 제 8회  KB A.I Challenge",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109141",
+      "dday": "D-22",
+      "days_left": 22,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
       "ix": "108323",
       "title": "2026년 물류데이터·AI 활용 및 분석 아이디어 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108323",
@@ -269,6 +278,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
       "dday": "D-33",
       "days_left": 33,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "109142",
+      "title": "2026 대전 AI 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109142",
+      "dday": "D-37",
+      "days_left": 37,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
@@ -347,7 +365,7 @@
     {
       "ix": "108984",
       "title": "2026 D-Robotics Innovation Contest",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108984",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108984",
       "dday": "D-80",
       "days_left": 80,
       "is_open": true,
