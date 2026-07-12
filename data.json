@@ -1,34 +1,7 @@
 {
-  "updated": "2026-07-12 22:14 KST",
-  "count": 44,
+  "updated": "2026-07-13 04:01 KST",
+  "count": 40,
   "contests": [
-    {
-      "ix": "107850",
-      "title": "2026년 대한민국 AI 콘텐츠 어워즈 - 경쟁 부문 출품 공고",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107850",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107842",
-      "title": "2026년 대한민국 AI 콘텐츠 어워즈 - 백남준 특별상 부문",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107842",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107837",
-      "title": "[요기요 X 오라클 해커톤]  맛있는 일상 AI로 잇(IT)다 해커톤",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107837",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "108125",
       "title": "2026년 제 2회 강원권 중고교 AI 사이버 보안 챌린지",
@@ -41,7 +14,7 @@
     {
       "ix": "107410",
       "title": "2026년 외교 공공데이터‧AI 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107410",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107410",
       "dday": "D-1",
       "days_left": 1,
       "is_open": true,
@@ -138,15 +111,6 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
-      "dday": "D-18",
-      "days_left": 18,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "107426",
       "title": "2026 한국수력원자력 기업이미지 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
@@ -156,9 +120,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
       "dday": "D-18",
       "days_left": 18,
       "is_open": true,
@@ -183,18 +147,27 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "107427",
-      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107427",
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "dday": "D-18",
+      "days_left": 18,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108288",
+      "title": "2026년 임업통계 활용 경진대회",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108288",
       "dday": "D-19",
       "days_left": 19,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
-      "ix": "108288",
-      "title": "2026년 임업통계 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108288",
+      "ix": "107427",
+      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107427",
       "dday": "D-19",
       "days_left": 19,
       "is_open": true,
@@ -282,15 +255,6 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "109142",
-      "title": "2026 대전 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109142",
-      "dday": "D-37",
-      "days_left": 37,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "108046",
       "title": "제 1회 일상뒤집기 ai 어플 개발 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=108046",
@@ -365,7 +329,7 @@
     {
       "ix": "108984",
       "title": "2026 D-Robotics Innovation Contest",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108984",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108984",
       "dday": "D-80",
       "days_left": 80,
       "is_open": true,
@@ -374,7 +338,7 @@
     {
       "ix": "107813",
       "title": "2026년 창원시 AIㆍ데이터 활용 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107813",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
       "dday": "D-80",
       "days_left": 80,
       "is_open": true,
