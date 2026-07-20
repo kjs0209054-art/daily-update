@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 12:37 KST",
+  "updated": "2026-07-20 17:53 KST",
   "count": 38,
   "contests": [
     {
@@ -30,9 +30,27 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "108417",
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "dday": "D-10",
+      "days_left": 10,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "108289",
       "title": "2026 성평등 영상 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
+      "dday": "D-10",
+      "days_left": 10,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-10",
       "days_left": 10,
       "is_open": true,
@@ -48,27 +66,9 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108417",
-      "title": "2026 CHAI 대학생 AI 광고 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
-      "dday": "D-10",
-      "days_left": 10,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "108662",
       "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108662",
-      "dday": "D-10",
-      "days_left": 10,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-10",
       "days_left": 10,
       "is_open": true,
