@@ -1,29 +1,20 @@
 {
-  "updated": "2026-07-28 04:23 KST",
+  "updated": "2026-07-28 11:21 KST",
   "count": 38,
   "contests": [
-    {
-      "ix": "107426",
-      "title": "2026 한국수력원자력 기업이미지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
-      "dday": "D-3",
-      "days_left": 3,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108662",
-      "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108662",
-      "dday": "D-3",
-      "days_left": 3,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "108417",
       "title": "2026 CHAI 대학생 AI 광고 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "dday": "D-3",
+      "days_left": 3,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "107426",
+      "title": "2026 한국수력원자력 기업이미지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107426",
       "dday": "D-3",
       "days_left": 3,
       "is_open": true,
@@ -42,6 +33,15 @@
       "ix": "107425",
       "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "dday": "D-3",
+      "days_left": 3,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108662",
+      "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108662",
       "dday": "D-3",
       "days_left": 3,
       "is_open": true,
@@ -192,18 +192,18 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108509",
-      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
+      "ix": "109527",
+      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
       "dday": "D-18",
       "days_left": 18,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "109527",
-      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
+      "ix": "108509",
+      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
       "dday": "D-18",
       "days_left": 18,
       "is_open": true,
