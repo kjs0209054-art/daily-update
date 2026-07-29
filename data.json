@@ -1,11 +1,29 @@
 {
-  "updated": "2026-07-29 17:36 KST",
-  "count": 38,
+  "updated": "2026-07-29 23:04 KST",
+  "count": 39,
   "contests": [
+    {
+      "ix": "107425",
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
+      "dday": "D-1",
+      "days_left": 1,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
     {
       "ix": "108417",
       "title": "2026 CHAI 대학생 AI 광고 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108417",
+      "dday": "D-1",
+      "days_left": 1,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "108662",
+      "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108662",
       "dday": "D-1",
       "days_left": 1,
       "is_open": true,
@@ -24,24 +42,6 @@
       "ix": "108289",
       "title": "2026 성평등 영상 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108289",
-      "dday": "D-1",
-      "days_left": 1,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108662",
-      "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108662",
-      "dday": "D-1",
-      "days_left": 1,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107425",
-      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=107425",
       "dday": "D-1",
       "days_left": 1,
       "is_open": true,
@@ -167,7 +167,7 @@
     {
       "ix": "109554",
       "title": "일상을 바꾸는 한 줄 SKT 모두의 promp.T 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109554",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109554",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
@@ -291,6 +291,15 @@
       "category": "게임/소프트웨어"
     },
     {
+      "ix": "109674",
+      "title": "지능형 홈(AI@Home) matter AX Sprint 2026(개발자 해커톤)신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109674",
+      "dday": "D-44",
+      "days_left": 44,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "109003",
       "title": "제5회 게임제너레이션 게임비평공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=109003",
@@ -320,7 +329,7 @@
     {
       "ix": "107813",
       "title": "2026년 창원시 AIㆍ데이터 활용 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=3&ix=107813",
       "dday": "D-63",
       "days_left": 63,
       "is_open": true,
