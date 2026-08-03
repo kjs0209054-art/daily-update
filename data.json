@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03 18:38 KST",
-  "count": 24,
+  "updated": "2026-08-03 23:33 KST",
+  "count": 25,
   "contests": [
     {
       "ix": "109141",
@@ -57,18 +57,18 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108509",
-      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
+      "ix": "109527",
+      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
       "dday": "D-11",
       "days_left": 11,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "109527",
-      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
+      "ix": "108509",
+      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
       "dday": "D-11",
       "days_left": 11,
       "is_open": true,
@@ -122,7 +122,7 @@
     {
       "ix": "108544",
       "title": "제13회 전국 ICT융합 AI 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108544",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108544",
       "dday": "D-25",
       "days_left": 25,
       "is_open": true,
@@ -154,6 +154,15 @@
       "days_left": 31,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "109792",
+      "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109792",
+      "dday": "D-39",
+      "days_left": 39,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "109674",
