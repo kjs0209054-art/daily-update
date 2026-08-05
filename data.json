@@ -1,16 +1,7 @@
 {
-  "updated": "2026-08-05 23:02 KST",
-  "count": 25,
+  "updated": "2026-08-06 04:25 KST",
+  "count": 24,
   "contests": [
-    {
-      "ix": "109265",
-      "title": "2026 서든어택 무기 스킨 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=109265",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "109554",
       "title": "일상을 바꾸는 한 줄 SKT 모두의 promp.T 공모전",
@@ -48,18 +39,18 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "109527",
-      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
+      "ix": "108509",
+      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
       "dday": "D-9",
       "days_left": 9,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108509",
-      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
+      "ix": "109527",
+      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
       "dday": "D-9",
       "days_left": 9,
       "is_open": true,
