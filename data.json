@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05 17:31 KST",
-  "count": 24,
+  "updated": "2026-08-05 23:02 KST",
+  "count": 25,
   "contests": [
     {
       "ix": "109265",
@@ -174,9 +174,18 @@
       "category": "게임/소프트웨어"
     },
     {
+      "ix": "109883",
+      "title": "제8회 오티콘챌린지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
+      "dday": "D-39",
+      "days_left": 39,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "108653",
       "title": "2026 Big Data 활용 대회 참가자 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108653",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108653",
       "dday": "D-44",
       "days_left": 44,
       "is_open": true,
