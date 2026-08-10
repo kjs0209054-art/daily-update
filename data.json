@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-10 03:36 KST",
-  "count": 27,
+  "updated": "2026-08-10 10:28 KST",
+  "count": 28,
   "contests": [
     {
       "ix": "109554",
       "title": "일상을 바꾸는 한 줄 SKT 모두의 promp.T 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109554",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109554",
       "dday": "D-1",
       "days_left": 1,
       "is_open": true,
@@ -39,18 +39,18 @@
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "109527",
-      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
+      "ix": "108509",
+      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
       "dday": "D-5",
       "days_left": 5,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "108509",
-      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
+      "ix": "109527",
+      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
       "dday": "D-5",
       "days_left": 5,
       "is_open": true,
@@ -91,6 +91,15 @@
       "days_left": 13,
       "is_open": true,
       "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "109974",
+      "title": "KB스타즈 여자프로농구단 대학생 홍보대사 16기 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109974",
+      "dday": "D-14",
+      "days_left": 14,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "108733",
