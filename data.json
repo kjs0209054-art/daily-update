@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13 22:03 KST",
-  "count": 30,
+  "updated": "2026-08-14 03:59 KST",
+  "count": 31,
   "contests": [
     {
       "ix": "108509",
@@ -64,6 +64,15 @@
       "days_left": 10,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110121",
+      "title": "오픈AI 게임 빌더스 서울신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110121",
+      "dday": "D-13",
+      "days_left": 13,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "108733",
