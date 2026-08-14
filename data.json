@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-14 16:20 KST",
+  "updated": "2026-08-14 22:00 KST",
   "count": 31,
   "contests": [
     {
-      "ix": "108509",
-      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
+      "ix": "109527",
+      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
       "dday": "D-0",
       "days_left": 0,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "109527",
-      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
+      "ix": "108509",
+      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
       "dday": "D-0",
       "days_left": 0,
       "is_open": true,
@@ -67,7 +67,7 @@
     },
     {
       "ix": "110121",
-      "title": "오픈AI 게임 빌더스 서울신규",
+      "title": "오픈AI 게임 빌더스 서울",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110121",
       "dday": "D-12",
       "days_left": 12,
@@ -147,6 +147,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "110003",
+      "title": "모두의 AI 실험실 AI 서비스 경진대회",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110003",
+      "dday": "D-23",
+      "days_left": 23,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "109792",
       "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
@@ -179,15 +188,6 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
       "dday": "D-30",
       "days_left": 30,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "110106",
-      "title": "(iM뱅크) 2026 AI Blookchain 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110106",
-      "dday": "D-31",
-      "days_left": 31,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
