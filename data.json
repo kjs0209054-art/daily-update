@@ -1,25 +1,7 @@
 {
-  "updated": "2026-08-14 22:00 KST",
-  "count": 31,
+  "updated": "2026-08-15 03:50 KST",
+  "count": 29,
   "contests": [
-    {
-      "ix": "109527",
-      "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109527",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108509",
-      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=108509",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "109144",
       "title": "제2회 매일유업 대학생 AI 영상 공모전",
