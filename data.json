@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16 21:33 KST",
-  "count": 30,
+  "updated": "2026-08-17 03:23 KST",
+  "count": 31,
   "contests": [
     {
       "ix": "109144",
@@ -129,6 +129,15 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "110070",
+      "title": "2026 청소년 AI 콘텐츠 경진대회 YACOF",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110070",
+      "dday": "D-18",
+      "days_left": 18,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "110012",
       "title": "[대통령직속 빛의 위원회] 빛의 혁명 상징 디자인 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110012",
@@ -221,7 +230,7 @@
     {
       "ix": "109888",
       "title": "2026 한국관광 데이터랩 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109888",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
       "dday": "D-45",
       "days_left": 45,
       "is_open": true,
