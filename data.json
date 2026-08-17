@@ -1,16 +1,7 @@
 {
-  "updated": "2026-08-17 21:37 KST",
-  "count": 32,
+  "updated": "2026-08-18 03:34 KST",
+  "count": 31,
   "contests": [
-    {
-      "ix": "109144",
-      "title": "제2회 매일유업 대학생 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109144",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "109142",
       "title": "2026 대전 AI 영상 공모전",
