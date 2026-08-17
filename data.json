@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17 15:48 KST",
-  "count": 31,
+  "updated": "2026-08-17 21:37 KST",
+  "count": 32,
   "contests": [
     {
       "ix": "109144",
@@ -86,7 +86,7 @@
     {
       "ix": "109905",
       "title": "국립광주과학관 2026 마이AI랩 AI-이음 프로젝트 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109905",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109905",
       "dday": "D-11",
       "days_left": 11,
       "is_open": true,
@@ -278,6 +278,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110023",
       "dday": "D-85",
       "days_left": 85,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110179",
+      "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110179",
+      "dday": "D-167",
+      "days_left": 167,
       "is_open": true,
       "category": "웹/모바일/IT"
     }
