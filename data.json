@@ -1,16 +1,7 @@
 {
-  "updated": "2026-08-18 21:39 KST",
-  "count": 31,
+  "updated": "2026-08-19 03:33 KST",
+  "count": 30,
   "contests": [
-    {
-      "ix": "109142",
-      "title": "2026 대전 AI 영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109142",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "110040",
       "title": "2026 전남광주 청년(YOUTH) AI 솔버톤",
@@ -221,7 +212,7 @@
     {
       "ix": "109888",
       "title": "2026 한국관광 데이터랩 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109888",
       "dday": "D-43",
       "days_left": 43,
       "is_open": true,
