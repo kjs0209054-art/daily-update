@@ -1,16 +1,7 @@
 {
-  "updated": "2026-08-19 21:40 KST",
+  "updated": "2026-08-20 03:30 KST",
   "count": 30,
   "contests": [
-    {
-      "ix": "110040",
-      "title": "2026 전남광주 청년(YOUTH) AI 솔버톤",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110040",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "109956",
       "title": "2026년 공무원연금공단 AI•공공데이터 대국민 시각화 경진대회",
@@ -140,7 +131,7 @@
     {
       "ix": "109792",
       "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109792",
       "dday": "D-23",
       "days_left": 23,
       "is_open": true,
@@ -235,6 +226,15 @@
       "days_left": 42,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110223",
+      "title": "제5회 세명컴퓨터고 중학생 SW 아이디어 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110223",
+      "dday": "D-42",
+      "days_left": 42,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "108240",
