@@ -1,16 +1,7 @@
 {
-  "updated": "2026-08-21 21:40 KST",
-  "count": 30,
+  "updated": "2026-08-22 03:32 KST",
+  "count": 33,
   "contests": [
-    {
-      "ix": "109956",
-      "title": "2026년 공무원연금공단 AI•공공데이터 대국민 시각화 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109956",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "108046",
       "title": "제 1회 일상뒤집기 ai 어플 개발 공모전",
@@ -57,9 +48,18 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "110355",
+      "title": "제6회 우리은행 모의해킹 경진대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110355",
+      "dday": "D-7",
+      "days_left": 7,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "109905",
       "title": "국립광주과학관 2026 마이AI랩 AI-이음 프로젝트 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109905",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109905",
       "dday": "D-7",
       "days_left": 7,
       "is_open": true,
@@ -131,7 +131,7 @@
     {
       "ix": "109792",
       "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109792",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
       "dday": "D-21",
       "days_left": 21,
       "is_open": true,
@@ -174,6 +174,24 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "110360",
+      "title": "(iM뱅크) 2026 AI Blookchain 경진대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110360",
+      "dday": "D-30",
+      "days_left": 30,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110264",
+      "title": "제1회 AI금융빅데이터플랫폼 소비데이터 활용 아이디어 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110264",
+      "dday": "D-31",
+      "days_left": 31,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "110053",
       "title": "2026 AI로 금산 창작물 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110053",
@@ -203,7 +221,7 @@
     {
       "ix": "109888",
       "title": "2026 한국관광 데이터랩 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109888",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
       "dday": "D-40",
       "days_left": 40,
       "is_open": true,
@@ -253,6 +271,15 @@
       "days_left": 47,
       "is_open": true,
       "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "110273",
+      "title": "AI 달인 100 챌린지",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
+      "dday": "D-76",
+      "days_left": 76,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "110023",
