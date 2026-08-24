@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24 15:52 KST",
-  "count": 32,
+  "updated": "2026-08-24 21:42 KST",
+  "count": 33,
   "contests": [
     {
       "ix": "110121",
@@ -163,6 +163,15 @@
       "days_left": 27,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110419",
+      "title": "제6회 경북 대학생 e스포츠 대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110419",
+      "dday": "D-27",
+      "days_left": 27,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "110264",
