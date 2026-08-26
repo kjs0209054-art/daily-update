@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26 15:42 KST",
-  "count": 33,
+  "updated": "2026-08-26 21:45 KST",
+  "count": 34,
   "contests": [
     {
       "ix": "110121",
@@ -145,6 +145,15 @@
       "days_left": 18,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110498",
+      "title": "[ZEP School] 메타버스 교과 콘텐츠 제작 공모전신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110498",
+      "dday": "D-20",
+      "days_left": 20,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "108653",
