@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30 20:14 KST",
-  "count": 28,
+  "updated": "2026-08-31 01:00 KST",
+  "count": 29,
   "contests": [
     {
       "ix": "108767",
@@ -50,7 +50,7 @@
     {
       "ix": "109792",
       "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109792",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
@@ -217,6 +217,15 @@
       "days_left": 38,
       "is_open": true,
       "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "110585",
+      "title": "2026 0924영상제 영상 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110585",
+      "dday": "D-48",
+      "days_left": 48,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "110273",
