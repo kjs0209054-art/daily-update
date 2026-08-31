@@ -1,16 +1,7 @@
 {
-  "updated": "2026-08-31 21:40 KST",
-  "count": 29,
+  "updated": "2026-09-01 07:25 KST",
+  "count": 30,
   "contests": [
-    {
-      "ix": "108767",
-      "title": "제4회 스마트축산 AI 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108767",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "107135",
       "title": "제24회 임베디드SW경진대회",
@@ -75,6 +66,15 @@
       "category": "게임/소프트웨어"
     },
     {
+      "ix": "110623",
+      "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 양성 과정 참여자 모집 (L.L.M. 아카데미)",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
+      "dday": "D-13",
+      "days_left": 13,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
       "ix": "109883",
       "title": "제8회 오티콘챌린지 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
@@ -91,6 +91,15 @@
       "days_left": 15,
       "is_open": true,
       "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "110622",
+      "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110622",
+      "dday": "D-17",
+      "days_left": 17,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "108653",
@@ -140,7 +149,7 @@
     {
       "ix": "109958",
       "title": "2026년 안양시 공공데이터・AI 활용 대학생 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109958",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109958",
       "dday": "D-21",
       "days_left": 21,
       "is_open": true,
@@ -167,7 +176,7 @@
     {
       "ix": "109888",
       "title": "2026 한국관광 데이터랩 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109888",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
       "dday": "D-30",
       "days_left": 30,
       "is_open": true,
