@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01 12:31 KST",
-  "count": 31,
+  "updated": "2026-09-01 20:04 KST",
+  "count": 33,
   "contests": [
     {
       "ix": "107135",
@@ -39,6 +39,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "110653",
+      "title": "[무계로 세계로 블루마블] 리그 오브 레전드 무작위 총력전 : 아수라장 - 선수 모집신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110653",
+      "dday": "D-8",
+      "days_left": 8,
+      "is_open": true,
+      "category": "게임/소프트웨어"
+    },
+    {
       "ix": "109792",
       "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
@@ -66,15 +75,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "109883",
-      "title": "제8회 오티콘챌린지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
-      "dday": "D-12",
-      "days_left": 12,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "110623",
       "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 양성 과정 참여자 모집 (L.L.M. 아카데미)",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
@@ -82,6 +82,15 @@
       "days_left": 12,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "109883",
+      "title": "제8회 오티콘챌린지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
+      "dday": "D-12",
+      "days_left": 12,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "110498",
@@ -246,6 +255,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "110659",
+      "title": "2026 데이터+AI 혁신챌린지 데이터안심구역 경진대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110659",
+      "dday": "D-51",
+      "days_left": 51,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "110273",
       "title": "AI 달인 100 챌린지",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
@@ -257,7 +275,7 @@
     {
       "ix": "110023",
       "title": "2026 DATA·AI 분석 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110023",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110023",
       "dday": "D-70",
       "days_left": 70,
       "is_open": true,
