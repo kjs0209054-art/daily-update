@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 05:29 KST",
+  "updated": "2026-09-04 11:52 KST",
   "count": 35,
   "contests": [
     {
@@ -57,15 +57,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "109883",
-      "title": "제8회 오티콘챌린지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
-      "dday": "D-10",
-      "days_left": 10,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "110623",
       "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
@@ -73,6 +64,15 @@
       "days_left": 10,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "109883",
+      "title": "제8회 오티콘챌린지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
+      "dday": "D-10",
+      "days_left": 10,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "110498",
@@ -284,7 +284,7 @@
     {
       "ix": "110273",
       "title": "AI 달인 100 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110273",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
       "dday": "D-63",
       "days_left": 63,
       "is_open": true,
