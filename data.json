@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 19:34 KST",
+  "updated": "2026-09-05 00:44 KST",
   "count": 35,
   "contests": [
     {
@@ -57,15 +57,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "110623",
-      "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
-      "dday": "D-9",
-      "days_left": 9,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
       "ix": "109883",
       "title": "제8회 오티콘챌린지 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
@@ -73,6 +64,15 @@
       "days_left": 9,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110623",
+      "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
+      "dday": "D-9",
+      "days_left": 9,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "110498",
@@ -174,18 +174,18 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "110678",
-      "title": "2026년 스포츠토토 숏폼 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
+      "ix": "110633",
+      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
       "dday": "D-24",
       "days_left": 24,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "110633",
-      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
+      "ix": "110678",
+      "title": "2026년 스포츠토토 숏폼 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
       "dday": "D-24",
       "days_left": 24,
       "is_open": true,
