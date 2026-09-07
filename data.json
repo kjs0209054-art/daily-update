@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 04:58 KST",
+  "updated": "2026-09-07 11:51 KST",
   "count": 33,
   "contests": [
     {
@@ -39,15 +39,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "110623",
-      "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
-      "dday": "D-7",
-      "days_left": 7,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
       "ix": "109883",
       "title": "제8회 오티콘챌린지 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
@@ -55,6 +46,15 @@
       "days_left": 7,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110623",
+      "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
+      "dday": "D-7",
+      "days_left": 7,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "110498",
@@ -113,7 +113,7 @@
     {
       "ix": "110264",
       "title": "제1회 AI금융빅데이터플랫폼 소비데이터 활용 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110264",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110264",
       "dday": "D-15",
       "days_left": 15,
       "is_open": true,
@@ -156,18 +156,18 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "110633",
-      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
+      "ix": "110678",
+      "title": "2026년 스포츠토토 숏폼 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
       "dday": "D-22",
       "days_left": 22,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "110678",
-      "title": "2026년 스포츠토토 숏폼 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
+      "ix": "110633",
+      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
       "dday": "D-22",
       "days_left": 22,
       "is_open": true,
