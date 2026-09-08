@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08 19:33 KST",
-  "count": 34,
+  "updated": "2026-09-09 00:58 KST",
+  "count": 35,
   "contests": [
     {
       "ix": "110653",
@@ -39,15 +39,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "109883",
-      "title": "제8회 오티콘챌린지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
-      "dday": "D-5",
-      "days_left": 5,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "110623",
       "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
@@ -55,6 +46,15 @@
       "days_left": 5,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "109883",
+      "title": "제8회 오티콘챌린지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
+      "dday": "D-5",
+      "days_left": 5,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "110498",
@@ -136,6 +136,15 @@
       "days_left": 13,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110767",
+      "title": "2026 대학생 프로그래밍 경시대회",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110767",
+      "dday": "D-14",
+      "days_left": 14,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "110530",
