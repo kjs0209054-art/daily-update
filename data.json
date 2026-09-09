@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 12:02 KST",
+  "updated": "2026-09-09 19:44 KST",
   "count": 35,
   "contests": [
     {
@@ -39,15 +39,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "109883",
-      "title": "제8회 오티콘챌린지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
-      "dday": "D-4",
-      "days_left": 4,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "110623",
       "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
@@ -55,6 +46,15 @@
       "days_left": 4,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "109883",
+      "title": "제8회 오티콘챌린지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
+      "dday": "D-4",
+      "days_left": 4,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "110498",
@@ -165,15 +165,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "110633",
-      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
-      "dday": "D-19",
-      "days_left": 19,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "110678",
       "title": "2026년 스포츠토토 숏폼 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
@@ -183,8 +174,17 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "110633",
+      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
+      "dday": "D-19",
+      "days_left": 19,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "110836",
-      "title": "SDU COSS와 함께하는 소개딩 (소프트웨어 개발보안 시큐어코딩 경진대회)신규",
+      "title": "SDU COSS와 함께하는 소개딩 (소프트웨어 개발보안 시큐어코딩 경진대회)",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110836",
       "dday": "D-19",
       "days_left": 19,
