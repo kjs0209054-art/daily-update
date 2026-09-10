@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10 12:02 KST",
-  "count": 34,
+  "updated": "2026-09-10 19:35 KST",
+  "count": 35,
   "contests": [
     {
       "ix": "109792",
@@ -30,15 +30,6 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "109883",
-      "title": "제8회 오티콘챌린지 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
-      "dday": "D-3",
-      "days_left": 3,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
       "ix": "110623",
       "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110623",
@@ -46,6 +37,15 @@
       "days_left": 3,
       "is_open": true,
       "category": "웹/모바일/IT, 게임/소프트웨어"
+    },
+    {
+      "ix": "109883",
+      "title": "제8회 오티콘챌린지 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=109883",
+      "dday": "D-3",
+      "days_left": 3,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "110498",
@@ -271,6 +271,15 @@
       "days_left": 42,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "110895",
+      "title": "쿵야 IP를 활용한 로블록스(Roblox) 게임 콘텐츠 제작 공모전신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110895",
+      "dday": "D-52",
+      "days_left": 52,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "110273",
