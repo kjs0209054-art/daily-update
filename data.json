@@ -1,34 +1,7 @@
 {
-  "updated": "2026-09-11 19:35 KST",
-  "count": 35,
+  "updated": "2026-09-12 00:51 KST",
+  "count": 32,
   "contests": [
-    {
-      "ix": "109792",
-      "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109792",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "109674",
-      "title": "지능형 홈(AI@Home) matter AX Sprint 2026(개발자 해커톤)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109674",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "109003",
-      "title": "제5회 게임제너레이션 게임비평공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=109003",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "109883",
       "title": "제8회 오티콘챌린지 공모전",
@@ -156,18 +129,18 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "110633",
-      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
+      "ix": "110678",
+      "title": "2026년 스포츠토토 숏폼 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
       "dday": "D-17",
       "days_left": 17,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "110678",
-      "title": "2026년 스포츠토토 숏폼 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
+      "ix": "110633",
+      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
       "dday": "D-17",
       "days_left": 17,
       "is_open": true,
