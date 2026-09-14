@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14 20:46 KST",
-  "count": 33,
+  "updated": "2026-09-15 02:40 KST",
+  "count": 34,
   "contests": [
     {
       "ix": "110498",
@@ -255,6 +255,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "110998",
+      "title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110998",
+      "dday": "D-39",
+      "days_left": 39,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "110895",
       "title": "쿵야 IP를 활용한 로블록스(Roblox) 게임 콘텐츠 제작 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110895",
@@ -266,7 +275,7 @@
     {
       "ix": "110273",
       "title": "AI 달인 100 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110273",
       "dday": "D-52",
       "days_left": 52,
       "is_open": true,
