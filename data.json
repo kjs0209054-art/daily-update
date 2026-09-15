@@ -1,16 +1,7 @@
 {
-  "updated": "2026-09-15 20:03 KST",
-  "count": 34,
+  "updated": "2026-09-16 01:13 KST",
+  "count": 33,
   "contests": [
-    {
-      "ix": "110498",
-      "title": "[ZEP School] 메타버스 교과 콘텐츠 제작 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110498",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "110622",
       "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회",
@@ -256,7 +247,7 @@
     },
     {
       "ix": "110998",
-      "title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전신규",
+      "title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110998",
       "dday": "D-38",
       "days_left": 38,
