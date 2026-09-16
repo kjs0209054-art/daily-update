@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16 12:17 KST",
-  "count": 33,
+  "updated": "2026-09-16 19:49 KST",
+  "count": 34,
   "contests": [
     {
       "ix": "110622",
@@ -111,18 +111,18 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "110678",
-      "title": "2026년 스포츠토토 숏폼 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
+      "ix": "110633",
+      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "110633",
-      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
+      "ix": "110678",
+      "title": "2026년 스포츠토토 숏폼 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
@@ -136,6 +136,15 @@
       "days_left": 12,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111062",
+      "title": "제4회 경남 AI·SW 경진대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=111062",
+      "dday": "D-13",
+      "days_left": 13,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "110962",
