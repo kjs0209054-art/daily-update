@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21 12:17 KST",
-  "count": 31,
+  "updated": "2026-09-21 20:58 KST",
+  "count": 32,
   "contests": [
     {
       "ix": "110264",
@@ -66,18 +66,18 @@
       "category": "게임/소프트웨어"
     },
     {
-      "ix": "110633",
-      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
+      "ix": "110678",
+      "title": "2026년 스포츠토토 숏폼 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
       "dday": "D-7",
       "days_left": 7,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
     {
-      "ix": "110678",
-      "title": "2026년 스포츠토토 숏폼 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110678",
+      "ix": "110633",
+      "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
       "dday": "D-7",
       "days_left": 7,
       "is_open": true,
@@ -192,6 +192,15 @@
       "category": "게임/소프트웨어"
     },
     {
+      "ix": "111185",
+      "title": "[방송미디어통신위원회] 생성형 AI 위험성 찾기 이벤트 시즌3신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111185",
+      "dday": "D-21",
+      "days_left": 21,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "110953",
       "title": "2026 KoMaP AI 경진대회",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110953",
@@ -248,7 +257,7 @@
     {
       "ix": "110273",
       "title": "AI 달인 100 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110273",
       "dday": "D-45",
       "days_left": 45,
       "is_open": true,
