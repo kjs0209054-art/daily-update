@@ -1,25 +1,7 @@
 {
-  "updated": "2026-09-22 19:57 KST",
-  "count": 31,
+  "updated": "2026-09-23 01:15 KST",
+  "count": 29,
   "contests": [
-    {
-      "ix": "110623",
-      "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 교육 과정 참여자 모집 (L.L.M. 아카데미)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110623",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
-      "ix": "110767",
-      "title": "2026 대학생 프로그래밍 경시대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110767",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "110530",
       "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전",
