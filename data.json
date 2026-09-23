@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23 12:16 KST",
-  "count": 29,
+  "updated": "2026-09-23 19:45 KST",
+  "count": 30,
   "contests": [
     {
       "ix": "110530",
@@ -33,6 +33,15 @@
       "ix": "110633",
       "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110633",
+      "dday": "D-5",
+      "days_left": 5,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111265",
+      "title": "SK하이닉스 AI 해커톤 2026신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111265",
       "dday": "D-5",
       "days_left": 5,
       "is_open": true,
@@ -122,7 +131,7 @@
     {
       "ix": "110710",
       "title": "2026 추계학술대회 대학생 ERP 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110710",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110710",
       "dday": "D-13",
       "days_left": 13,
       "is_open": true,
