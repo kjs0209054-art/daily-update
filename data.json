@@ -1,25 +1,7 @@
 {
-  "updated": "2026-09-29 21:06 KST",
-  "count": 30,
+  "updated": "2026-09-30 06:50 KST",
+  "count": 28,
   "contests": [
-    {
-      "ix": "111062",
-      "title": "제4회 경남 AI·SW 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=111062",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
-    {
-      "ix": "110962",
-      "title": "2026년 충청권 인디게임 공모전 인디유(indie·U)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110962",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "111047",
       "title": "한국택견협회 X 반크(VANK) 택견 AI 콘텐츠 발굴 대회",
@@ -112,7 +94,7 @@
     },
     {
       "ix": "111322",
-      "title": "[서울대학교 창업지원단·H1R AI] 2026 SNU X Croche AI 앱 해커톤신규",
+      "title": "[서울대학교 창업지원단·H1R AI] 2026 SNU X Croche AI 앱 해커톤",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111322",
       "dday": "D-11",
       "days_left": 11,
