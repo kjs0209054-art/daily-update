@@ -1,52 +1,7 @@
 {
-  "updated": "2026-09-30 20:54 KST",
-  "count": 28,
+  "updated": "2026-10-01 02:36 KST",
+  "count": 23,
   "contests": [
-    {
-      "ix": "111047",
-      "title": "한국택견협회 X 반크(VANK) 택견 AI 콘텐츠 발굴 대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111047",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "109888",
-      "title": "2026 한국관광 데이터랩 활용 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=109888",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "108984",
-      "title": "2026 D-Robotics Innovation Contest",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=108984",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "107813",
-      "title": "2026년 창원시 AIㆍ데이터 활용 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=107813",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "110223",
-      "title": "제5회 세명컴퓨터고 중학생 SW 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110223",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "108240",
       "title": "2026년 국민체육진흥공단 공공데이터 활용 경진대회",
@@ -68,7 +23,7 @@
     {
       "ix": "110710",
       "title": "2026 추계학술대회 대학생 ERP 아이디어 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110710",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110710",
       "dday": "D-6",
       "days_left": 6,
       "is_open": true,
