@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01 21:25 KST",
-  "count": 23,
+  "updated": "2026-10-02 07:19 KST",
+  "count": 24,
   "contests": [
     {
       "ix": "108240",
@@ -82,6 +82,15 @@
       "days_left": 12,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111359",
+      "title": "2026 대전 콘텐츠페어 이스포츠 대전 브롤스타즈 참가자 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=111359",
+      "dday": "D-13",
+      "days_left": 13,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "111279",
