@@ -1,16 +1,7 @@
 {
-  "updated": "2026-10-14 20:09 KST",
+  "updated": "2026-10-15 01:30 KST",
   "count": 19,
   "contests": [
-    {
-      "ix": "111359",
-      "title": "2026 대전 콘텐츠페어 이스포츠 대전 브롤스타즈 참가자 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=111359",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "111279",
       "title": "충청북도 과학여행 이야기 AI 이미지‧영상 공모전",
@@ -91,6 +82,15 @@
       "days_left": 9,
       "is_open": true,
       "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "111674",
+      "title": "2026 화성특례시 AI CF 공모전 - 제6회 별별화성 Awards",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111674",
+      "dday": "D-11",
+      "days_left": 11,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "111588",
