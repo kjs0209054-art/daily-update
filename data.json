@@ -1,25 +1,7 @@
 {
-  "updated": "2026-10-15 19:50 KST",
-  "count": 21,
+  "updated": "2026-10-16 01:17 KST",
+  "count": 19,
   "contests": [
-    {
-      "ix": "111279",
-      "title": "충청북도 과학여행 이야기 AI 이미지‧영상 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111279",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "110953",
-      "title": "2026 KoMaP AI 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110953",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "110981",
       "title": "2026 제5회 오픈소스 SW개발 경진대회",
@@ -59,7 +41,7 @@
     {
       "ix": "110659",
       "title": "2026 데이터+AI 혁신챌린지 데이터안심구역 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110659",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110659",
       "dday": "D-7",
       "days_left": 7,
       "is_open": true,
@@ -149,7 +131,7 @@
     {
       "ix": "110273",
       "title": "AI 달인 100 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110273",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
       "dday": "D-21",
       "days_left": 21,
       "is_open": true,
