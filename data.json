@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17 01:03 KST",
-  "count": 18,
+  "updated": "2026-10-17 05:29 KST",
+  "count": 19,
   "contests": [
     {
       "ix": "110585",
@@ -145,6 +145,15 @@
       "days_left": 35,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111628",
+      "title": "2026 조달청 AI 게임·콘텐츠 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=111628",
+      "dday": "D-37",
+      "days_left": 37,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "110305",
