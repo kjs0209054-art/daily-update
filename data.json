@@ -1,16 +1,7 @@
 {
-  "updated": "2026-10-16 19:40 KST",
-  "count": 19,
+  "updated": "2026-10-17 01:03 KST",
+  "count": 18,
   "contests": [
-    {
-      "ix": "110981",
-      "title": "2026 제5회 오픈소스 SW개발 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110981",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "110585",
       "title": "2026 0924영상제 영상 공모전",
