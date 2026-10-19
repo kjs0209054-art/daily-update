@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19 12:13 KST",
-  "count": 19,
+  "updated": "2026-10-19 21:06 KST",
+  "count": 22,
   "contests": [
     {
       "ix": "111278",
@@ -23,7 +23,7 @@
     {
       "ix": "110659",
       "title": "2026 데이터+AI 혁신챌린지 데이터안심구역 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110659",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110659",
       "dday": "D-3",
       "days_left": 3,
       "is_open": true,
@@ -75,6 +75,15 @@
       "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
+      "ix": "111767",
+      "title": "2026 충북글로벌게임센터 AI 게임 개발 공모전신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=111767",
+      "dday": "D-11",
+      "days_left": 11,
+      "is_open": true,
+      "category": "게임/소프트웨어"
+    },
+    {
       "ix": "111612",
       "title": "[건강보험심사평가원] 우리 동네 병원과 가까워지는 한마디 슬로건 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111612",
@@ -113,9 +122,18 @@
     {
       "ix": "110273",
       "title": "AI 달인 100 챌린지",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=110273",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110273",
       "dday": "D-17",
       "days_left": 17,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111765",
+      "title": "2026 K-AWARDS DIGITAL EXCELLENCE AWARDS신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111765",
+      "dday": "D-21",
+      "days_left": 21,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
@@ -136,6 +154,15 @@
       "days_left": 24,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111768",
+      "title": "2026 대경권 캠퍼스 IR 챔피언십 (창업 공모전)",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111768",
+      "dday": "D-25",
+      "days_left": 25,
+      "is_open": true,
+      "category": "웹/모바일/IT, 게임/소프트웨어"
     },
     {
       "ix": "111567",
