@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21 12:16 KST",
-  "count": 23,
+  "updated": "2026-10-21 20:09 KST",
+  "count": 24,
   "contests": [
     {
       "ix": "111734",
@@ -53,6 +53,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111588",
       "dday": "D-4",
       "days_left": 4,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111843",
+      "title": "2026 한림 G-Lab@동해 AI활용 지역문제해결 해커톤신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111843",
+      "dday": "D-5",
+      "days_left": 5,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
@@ -167,7 +176,7 @@
     {
       "ix": "111567",
       "title": "2026 대구광역시 기후·환경·탄소중립 공공 데이터 AI 활용대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111567",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111567",
       "dday": "D-30",
       "days_left": 30,
       "is_open": true,
