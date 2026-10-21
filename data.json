@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22 01:35 KST",
-  "count": 24,
+  "updated": "2026-10-22 06:14 KST",
+  "count": 26,
   "contests": [
     {
       "ix": "111734",
@@ -50,7 +50,7 @@
     {
       "ix": "111588",
       "title": "나랏돈 50조 찾기 프로젝트 - 나라장터 해커톤",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111588",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111588",
       "dday": "D-4",
       "days_left": 4,
       "is_open": true,
@@ -62,6 +62,24 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111843",
       "dday": "D-5",
       "days_left": 5,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111752",
+      "title": "2026 AI 해킹 방어 대회(ACDC) 참가자 모집",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111752",
+      "dday": "D-5",
+      "days_left": 5,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "111747",
+      "title": "AI 달인의 꿀팁 챌린지 시즌3",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111747",
+      "dday": "D-9",
+      "days_left": 9,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
@@ -113,7 +131,7 @@
     {
       "ix": "111682",
       "title": "화이트햇 2026 국방 사이버보안 콘테스트",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111682",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111682",
       "dday": "D-12",
       "days_left": 12,
       "is_open": true,
