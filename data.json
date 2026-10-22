@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22 12:15 KST",
-  "count": 26,
+  "updated": "2026-10-22 20:08 KST",
+  "count": 27,
   "contests": [
     {
       "ix": "111734",
@@ -58,7 +58,7 @@
     },
     {
       "ix": "111843",
-      "title": "2026 한림 G-Lab@동해 AI활용 지역문제해결 해커톤신규",
+      "title": "2026 한림 G-Lab@동해 AI활용 지역문제해결 해커톤",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111843",
       "dday": "D-4",
       "days_left": 4,
@@ -75,6 +75,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "111850",
+      "title": "2026년도 대한민국 SW기술대상 및 IT 아키텍처대상신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111850",
+      "dday": "D-8",
+      "days_left": 8,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "111747",
       "title": "AI 달인의 꿀팁 챌린지 시즌3",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111747",
@@ -86,7 +95,7 @@
     {
       "ix": "111685",
       "title": "2026 제8회 TS 보안 허점을 찾아라 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111685",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111685",
       "dday": "D-8",
       "days_left": 8,
       "is_open": true,
