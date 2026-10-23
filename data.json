@@ -1,25 +1,7 @@
 {
-  "updated": "2026-10-23 19:59 KST",
-  "count": 27,
+  "updated": "2026-10-24 01:26 KST",
+  "count": 25,
   "contests": [
-    {
-      "ix": "110998",
-      "title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110998",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "111346",
-      "title": "2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경진대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=111346",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "111674",
       "title": "2026 화성특례시 AI CF 공모전 - 제6회 별별화성 Awards",
