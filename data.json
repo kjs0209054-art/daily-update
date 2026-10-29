@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29 13:20 KST",
-  "count": 23,
+  "updated": "2026-10-29 21:16 KST",
+  "count": 24,
   "contests": [
     {
       "ix": "111850",
@@ -109,6 +109,15 @@
       "days_left": 12,
       "is_open": true,
       "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "112015",
+      "title": "[코리아 인디게임 쇼케이스] 2026 인디게임 서포터즈 모집신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=112015",
+      "dday": "D-13",
+      "days_left": 13,
+      "is_open": true,
+      "category": "게임/소프트웨어"
     },
     {
       "ix": "111750",
