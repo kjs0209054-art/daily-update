@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30 13:20 KST",
-  "count": 24,
+  "updated": "2026-10-30 21:06 KST",
+  "count": 26,
   "contests": [
     {
       "ix": "111850",
@@ -14,7 +14,7 @@
     {
       "ix": "111747",
       "title": "AI 달인의 꿀팁 챌린지 시즌3",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111747",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111747",
       "dday": "D-0",
       "days_left": 0,
       "is_open": true,
@@ -23,7 +23,7 @@
     {
       "ix": "111685",
       "title": "2026 제8회 TS 보안 허점을 찾아라 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111685",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111685",
       "dday": "D-0",
       "days_left": 0,
       "is_open": true,
@@ -84,6 +84,15 @@
       "category": "게임/소프트웨어"
     },
     {
+      "ix": "112027",
+      "title": "LOTTE AX CHALLENGE 2026신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112027",
+      "dday": "D-5",
+      "days_left": 5,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "110273",
       "title": "AI 달인 100 챌린지",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=110273",
@@ -112,7 +121,7 @@
     },
     {
       "ix": "112015",
-      "title": "[코리아 인디게임 쇼케이스] 2026 인디게임 서포터즈 모집신규",
+      "title": "[코리아 인디게임 쇼케이스] 2026 인디게임 서포터즈 모집",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=112015",
       "dday": "D-12",
       "days_left": 12,
@@ -161,6 +170,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111797",
       "dday": "D-17",
       "days_left": 17,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "112029",
+      "title": "2026 성평등 AI 벤치마크 챌린지 참가팀 모집신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112029",
+      "dday": "D-21",
+      "days_left": 21,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
