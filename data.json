@@ -1,25 +1,7 @@
 {
-  "updated": "2026-11-01 21:39 KST",
+  "updated": "2026-11-02 06:40 KST",
   "count": 22,
   "contests": [
-    {
-      "ix": "111612",
-      "title": "[건강보험심사평가원] 우리 동네 병원과 가까워지는 한마디 슬로건 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111612",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "110895",
-      "title": "쿵야 IP를 활용한 로블록스(Roblox) 게임 콘텐츠 제작 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=110895",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "게임/소프트웨어"
-    },
     {
       "ix": "111647",
       "title": "2026 신한 스퀘어브릿지 대학생 창업 공모전 HERO IR",
@@ -32,7 +14,7 @@
     {
       "ix": "111682",
       "title": "화이트햇 2026 국방 사이버보안 콘테스트",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111682",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111682",
       "dday": "D-1",
       "days_left": 1,
       "is_open": true,
@@ -120,6 +102,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "112063",
+      "title": "건강보험심사평가원 광고 온에어 기념 이벤트",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112063",
+      "dday": "D-14",
+      "days_left": 14,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
       "ix": "111802",
       "title": "현대자동차그룹 차량용 앱 개발 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111802",
@@ -170,6 +161,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111837",
       "dday": "D-26",
       "days_left": 26,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "112073",
+      "title": "[제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112073",
+      "dday": "D-29",
+      "days_left": 29,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
