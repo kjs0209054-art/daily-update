@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02 13:22 KST",
-  "count": 22,
+  "updated": "2026-11-02 23:44 KST",
+  "count": 23,
   "contests": [
     {
       "ix": "111647",
@@ -50,7 +50,7 @@
     {
       "ix": "111765",
       "title": "2026 K-AWARDS DIGITAL EXCELLENCE AWARDS",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111765",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111765",
       "dday": "D-7",
       "days_left": 7,
       "is_open": true,
@@ -125,6 +125,15 @@
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111797",
       "dday": "D-14",
       "days_left": 14,
+      "is_open": true,
+      "category": "웹/모바일/IT"
+    },
+    {
+      "ix": "112049",
+      "title": "AI 달인의 꿀팁 챌린지 시즌4",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112049",
+      "dday": "D-18",
+      "days_left": 18,
       "is_open": true,
       "category": "웹/모바일/IT"
     },
