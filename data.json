@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-04 22:45 KST",
-  "count": 21,
+  "updated": "2026-11-05 08:11 KST",
+  "count": 20,
   "contests": [
-    {
-      "ix": "112027",
-      "title": "LOTTE AX CHALLENGE 2026",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112027",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "110273",
       "title": "AI 달인 100 챌린지",
@@ -23,7 +14,7 @@
     {
       "ix": "111765",
       "title": "2026 K-AWARDS DIGITAL EXCELLENCE AWARDS",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111765",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111765",
       "dday": "D-5",
       "days_left": 5,
       "is_open": true,
