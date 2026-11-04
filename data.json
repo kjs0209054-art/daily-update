@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04 13:48 KST",
-  "count": 20,
+  "updated": "2026-11-04 22:45 KST",
+  "count": 21,
   "contests": [
     {
       "ix": "112027",
@@ -23,7 +23,7 @@
     {
       "ix": "111765",
       "title": "2026 K-AWARDS DIGITAL EXCELLENCE AWARDS",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111765",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111765",
       "dday": "D-5",
       "days_left": 5,
       "is_open": true,
@@ -163,6 +163,15 @@
       "days_left": 26,
       "is_open": true,
       "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "112160",
+      "title": "[한국체육산업개발(주)] 공공데이터 활용 경진대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112160",
+      "dday": "D-27",
+      "days_left": 27,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "111800",
