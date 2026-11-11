@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11 13:40 KST",
-  "count": 20,
+  "updated": "2026-11-11 22:31 KST",
+  "count": 21,
   "contests": [
     {
       "ix": "112015",
@@ -93,6 +93,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "112313",
+      "title": "디어비 글로벌 런칭 공모전신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=112313",
+      "dday": "D-11",
+      "days_left": 11,
+      "is_open": true,
+      "category": "게임/소프트웨어"
+    },
+    {
       "ix": "111628",
       "title": "2026 조달청 AI 게임·콘텐츠 공모전",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=111628",
@@ -112,7 +121,7 @@
     },
     {
       "ix": "112294",
-      "title": "2026 서울관광 프롬프톤신규",
+      "title": "2026 서울관광 프롬프톤",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112294",
       "dday": "D-18",
       "days_left": 18,
