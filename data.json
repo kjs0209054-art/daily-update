@@ -1,25 +1,7 @@
 {
-  "updated": "2026-11-13 22:54 KST",
-  "count": 22,
+  "updated": "2026-11-14 08:13 KST",
+  "count": 20,
   "contests": [
-    {
-      "ix": "111768",
-      "title": "2026 대경권 캠퍼스 IR 챔피언십 (창업 공모전)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111768",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT, 게임/소프트웨어"
-    },
-    {
-      "ix": "111912",
-      "title": "[CJ제일제당] 햇반 30주년 AI 공모전 (갓 지은 AI디어)",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111912",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "112063",
       "title": "건강보험심사평가원 광고 온에어 기념 이벤트",
@@ -41,7 +23,7 @@
     {
       "ix": "111797",
       "title": "[세종사이버대학교 AI실무활용학과] 한국 고전 설화 또는 전래동화 캐릭터의 재해석 공모전",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111797",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111797",
       "dday": "D-3",
       "days_left": 3,
       "is_open": true,
@@ -68,7 +50,7 @@
     {
       "ix": "111567",
       "title": "2026 대구광역시 기후·환경·탄소중립 공공 데이터 AI 활용대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=2&ix=111567",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111567",
       "dday": "D-7",
       "days_left": 7,
       "is_open": true,
