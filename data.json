@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19 14:52 KST",
-  "count": 17,
+  "updated": "2026-11-20 00:14 KST",
+  "count": 19,
   "contests": [
     {
       "ix": "112049",
@@ -66,6 +66,15 @@
       "category": "웹/모바일/IT"
     },
     {
+      "ix": "112474",
+      "title": "일상 속 아이디어를 AI로 웹·앱 서비스로! INNO-CODER AI HACKATHON 참가팀 모집신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=21&gbn=view&gp=1&ix=112474",
+      "dday": "D-10",
+      "days_left": 10,
+      "is_open": true,
+      "category": "게임/소프트웨어"
+    },
+    {
       "ix": "112073",
       "title": "[제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112073",
@@ -109,6 +118,15 @@
       "days_left": 18,
       "is_open": true,
       "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "112438",
+      "title": "2026년 서울교육 AI 활용 공모전",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112438",
+      "dday": "D-22",
+      "days_left": 22,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "112343",
