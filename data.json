@@ -1,34 +1,7 @@
 {
-  "updated": "2026-11-20 23:52 KST",
-  "count": 19,
+  "updated": "2026-11-21 08:39 KST",
+  "count": 16,
   "contests": [
-    {
-      "ix": "112049",
-      "title": "AI 달인의 꿀팁 챌린지 시즌4",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112049",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "112029",
-      "title": "2026 성평등 AI 벤치마크 챌린지 참가팀 모집",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112029",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
-    {
-      "ix": "111567",
-      "title": "2026 대구광역시 기후·환경·탄소중립 공공 데이터 AI 활용대회",
-      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=111567",
-      "dday": "D-0",
-      "days_left": 0,
-      "is_open": true,
-      "category": "웹/모바일/IT"
-    },
     {
       "ix": "112313",
       "title": "디어비 글로벌 런칭 공모전",
