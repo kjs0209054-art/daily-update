@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24 12:47 KST",
-  "count": 15,
+  "updated": "2026-11-25 01:56 KST",
+  "count": 16,
   "contests": [
     {
       "ix": "111837",
@@ -13,7 +13,7 @@
     },
     {
       "ix": "112518",
-      "title": "Build with Qwen: AutoRAG Hackathon 2026신규",
+      "title": "Build with Qwen: AutoRAG Hackathon 2026",
       "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112518",
       "dday": "D-5",
       "days_left": 5,
@@ -82,6 +82,15 @@
       "days_left": 13,
       "is_open": true,
       "category": "게임/소프트웨어"
+    },
+    {
+      "ix": "112549",
+      "title": "대구광역시 남구 AI 행정혁신 경진대회신규",
+      "link": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=view&gp=1&ix=112549",
+      "dday": "D-15",
+      "days_left": 15,
+      "is_open": true,
+      "category": "웹/모바일/IT"
     },
     {
       "ix": "112438",
